@@ -13,7 +13,7 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "minio": "^8.0.1",
+    "minio": "7.0.32",
     "node-polyfill-webpack-plugin": "^2.0.1"
   }
 }
